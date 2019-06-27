@@ -1,3 +1,8 @@
 # Dreamrs concrete5 Theme
 
-TOW: https://docs.google.com/document/d/1FkoxxfoTuB7xgf5-Os-syPPc4o2-uoY_SwlYBhol8AA
+
+### Important links
+| Link | Description |
+| --- | --- |
+| [TOW](./tow/README.md) | The technical outline of work built in Episode 1 |
+| [Dreamrs Theme](https://colorlib.com/wp/template/dreamrs/) | The theme template we're using |
