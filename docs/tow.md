@@ -20,8 +20,6 @@ The home page contains most of the elements that are used elsewhere, so we’re 
 
 * * *
 
-# 
-
 # Home
 
 ![](images/image4.jpg)
@@ -93,7 +91,6 @@ Social icons block on left, express form for emails on right.
 
 * * *
 
-## 
 
 ## Services Block
 
