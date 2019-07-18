@@ -23,7 +23,17 @@
     <link rel="stylesheet" href="<?= $view->getThemePath() ?>/fontawesome/css/all.min.css">
     <!-- style CSS -->
     <link rel="stylesheet" href="<?= $view->getThemePath() ?>/css/style.css">
-
+    <?php
+    $u = new User();
+    /* $u = $app->make(\Concrete\Core\User\User::class); */
+    if ($u->checkLogin()) {
+    ?>
+	<style type="text/css">
+	    .main_menu { top: 48px !important; }
+	</style>
+	<?php 
+	}
+    ?>
 
     <!-- Concrete5 Stuff -->
     <?php View::element('header_required') ?>
